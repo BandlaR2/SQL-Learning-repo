@@ -10,3 +10,8 @@
 1. Select
 2. Where clause
 3. Group By
+4. joins
+5. update
+6. inserts
+7. Order By
+8. Functions
